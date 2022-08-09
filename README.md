@@ -1,1 +1,3 @@
 # Elmat-Roller-Blinds-Manager
+
+Elmat Roller Manager is a software module designed for the management of motor blinds, shutter garage doors, motorized gates and other single-phase 230V AC devices. eRollMan software running on ESP8266 or ESP32 platform. Standard hardware for our eRollMan you can buy on AliExpress or another store. eRollMan enables precise positioning of shutters and blinds. The module can be managed via wireless Wi-Fi 2.4 GHz communication directly through an Android application (Elmat Editor, available for free through our website), through a complex SCADA system such as OpenHAB, NodeRed or via the buttons (button) on the module itself.
